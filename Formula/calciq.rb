@@ -4,7 +4,7 @@ class Calciq < Formula
   homepage "https://www.simplemind.dev/calciq"
   version "1.0.2"
   url "https://github.com/sqlaide/homebrew-calciq-releases/releases/download/v#{version}/calciq-macos-arm64.tar.gz"
-  sha256 "2d908d06ade55217079ff05dc0eac418a44810bf7b31a1b7acb8f0e9de23b1d2"
+  sha256 "e5a4121a60ccc7a2d5a55ee300ea6ee76c790818bdcbba5c85a3d60ccb415583"
 
   depends_on :macos
 
