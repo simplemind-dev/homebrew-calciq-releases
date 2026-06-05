@@ -2,9 +2,9 @@
 class Calciq < Formula
   desc "Terminal-native calculator (calciq CLI)"
   homepage "https://www.simplemind.dev/calciq"
-  version "2.0.2"
+  version "2.0.3"
   url "https://github.com/sqlaide/homebrew-calciq-releases/releases/download/v#{version}/calciq-macos-arm64.tar.gz"
-  sha256 "0f314ff85ce524966398bac50ff4dbf1aa433e47aa494f977e1789ece561a1b0"
+  sha256 "f4c84b98914a6205531de22894f7be2b3d222c376a0478b4c9ece6b0ad2d1deb"
 
   depends_on :macos
 
